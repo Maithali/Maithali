@@ -13,22 +13,6 @@ Skills: SOLIDITY/ ETHEREUM BLOCKCHAIN/ POLYGON NETWORK/ HARDHAT /  NFT/ DEFI/ DA
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Maithali)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://maithaliblock.hashnode.dev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/MaithaliGharde/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@GhardeMaithali)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/@blockchainbrainiac)  
 
-
-
-### Hi there 👋, my name is ** Maithali **
-#### Design and Develop Blockchain Dapps
-![Design and Develop Blockchain Dapps](https://pbs.twimg.com/profile_banners/1608765787174752258/1680086682/600x200)
-
-I'm Maithali from India, and I do content on Blockchain Development. I really enjoy learning Concepts of web3 and the technologies behind it. I also enjoy building Dapps or NFTs marketplace on various Blockchains and Tokens, you can check my twitter at twitter.com/@GhardeMaithali or youtube.com/@blockchainbrainiac.
-
-Skills: SOLIDITY/ ETHEREUM BLOCKCHAIN/ POLYGON NETWORK/ HARDHAT /  NFT/ DEFI/ DAO/ ORACLES/ JAVASCRIPT/ REACT  / HTML / CSS
-
-- 🔭 I’m currently working on Ineuron Intership 
-- 🌱 I’m currently learning full stack blockchain development 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Maithali)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://maithaliblock.hashnode.dev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/MaithaliGharde/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@GhardeMaithali)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/@blockchainbrainiac)  
-
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Maithali)](https://github.com/ryo-ma/github-profile-trophy)
