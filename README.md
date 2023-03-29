@@ -12,7 +12,7 @@ I'm Maithali from India, and I do content on Blockchain Development. I really en
 *  JAVASCRIPT/ REACT  / HTML / CSS
 
 ## Examples of Work
-<img src"(https://user-images.githubusercontent.com/121287753/228530589-f553735c-afe0-4ebb-a45f-6cf417abb90c.gif)" width="256">
+<img src="https://user-images.githubusercontent.com/121287753/228530589-f553735c-afe0-4ebb-a45f-6cf417abb90c.gif" width="256">
 
 - 🔭 I’m currently working on Ineuron Intership 
 - 🌱 I’m currently learning full stack blockchain development 
