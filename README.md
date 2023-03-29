@@ -12,8 +12,7 @@ I'm Maithali from India, and I do content on Blockchain Development. I really en
 *  JAVASCRIPT/ REACT  / HTML / CSS
 
 ## Examples of Work
-<img src="![screencapture-testnets-opensea-io-assets-goerli-0xd82ce8207ef7db016d1f7b83c41a46178ddb4b4f-0-2023-01-20-17_27_54](https://user-images.githubusercontent.com/121287753/228530589-f553735c-afe0-4ebb-a45f-6cf417abb90c.gif)
-" width="256" />
+![screencapture-testnets-opensea-io-assets-goerli-0xd82ce8207ef7db016d1f7b83c41a46178ddb4b4f-0-2023-01-20-17_27_54](https://user-images.githubusercontent.com/121287753/228530589-f553735c-afe0-4ebb-a45f-6cf417abb90c.gif)
 
 - 🔭 I’m currently working on Ineuron Intership 
 - 🌱 I’m currently learning full stack blockchain development 
