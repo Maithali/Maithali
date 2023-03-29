@@ -1,4 +1,4 @@
-![Design and Develop Blockchain Dapps]![Maithali Gharde(1)](https://user-images.githubusercontent.com/121287753/228525676-d8e90101-4b77-4b58-88fe-dd745ce0291a.jpg)
+![Maithali Gharde(1)](https://user-images.githubusercontent.com/121287753/228525676-d8e90101-4b77-4b58-88fe-dd745ce0291a.jpg)
 
 # Maithali Gharde
 I'm Maithali from India, and I do content on Blockchain Development. I really enjoy learning Concepts of web3 and the technologies behind it. I also enjoy building Dapps or NFTs marketplace on various Blockchains and Tokens, you can check my twitter at twitter.com/@GhardeMaithali or youtube.com/@blockchainbrainiac.
