@@ -2,7 +2,7 @@
 
 I'm Maithali from India, and I do content on Blockchain Devlopment. I really enjoy learning Concepts of web3 and the technologies behind it. I also enjoy building Dapps or NFTs marketplace on various Blockchains and Tokens, you can check my twitter at twitter.com/@GhardeMaithali or youtube.com/@blockchainbrainiac.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maithali&theme=jolly&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maithali&theme=merko&show_icons=true)
 <!--
 **Maithali/Maithali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
